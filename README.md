@@ -1,4 +1,4 @@
-# Example of a simple counter using Jest + Enzyme with TDD method.
+## Example of a simple counter built with ReactJS using Jest + Enzyme with TDD method.
 
 ## Available Scripts
 
